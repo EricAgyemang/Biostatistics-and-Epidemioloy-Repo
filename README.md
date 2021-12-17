@@ -76,7 +76,7 @@ This handout is designed to introduce you to the use of SAS in the Windows envir
   the screen
 
 
-  **Punctuation.** SAS has some very specific, very important rules of punctuation.
+  **Punctuation:** SAS has some very specific, very important rules of punctuation.
 
 
 
