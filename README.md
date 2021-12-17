@@ -1,10 +1,5 @@
 # Biostatistics-Repo
 BSC 490 - SAS (Statistical Analysis System)  Class
-This handout is designed to introduce you to the use of SAS in the Windows environment. 
-
-
-
-
 
 # TABLE OF CONTENTS
 
