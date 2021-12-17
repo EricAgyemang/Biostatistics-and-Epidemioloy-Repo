@@ -9,9 +9,9 @@ BSC 490 - SAS (Statistical Analysis System)  Class
 # TABLE OF CONTENTS
 
 
-# Part 1.	Using SAS for Windows	2
+# Part 1. Using SAS for Windows	2
 	Using SAS for Windows	3
-# Part 2.	Homework Assignments	8
+# Part 2. Homework Assignments	8
 	Assignment 1: Summary Statistics	9
 	Assignment 2: Probability & Generating Random Numbers	13
 	Assignment 3: One and two sample tests	14
@@ -21,17 +21,17 @@ BSC 490 - SAS (Statistical Analysis System)  Class
 	Assignment 7: Mixed Model Analysis of Variance: Comparing procedures	20
 	Assignment 8: Two stage Nested Analysis of Variance	22
 	Assignment 9: Linear & Multiple Regression	23
-  Assignment 10:  Analysis of Covariance	24
+        Assignment 10:  Analysis of Covariance	24
 # Part 3. Examples	25
-ANALYSIS OF VARIANCE:  Simulations of the ANOVA model	26
-ANOVA, MULTIPLE COMPARISONS, & CONTRASTS	28
-UNBALANCED ANOVA EXAMPLE	34
-LEAST SQUARES MEANS	41
-ANOVA MODELS WITH RANDOM EFFECTS	47
-NESTED ANOVA	53
-SIMPLE LINEAR REGRESSION	56
-LINEAR & MULTIPLE REGRESSION	65
-ANALYSIS OF COVARIANCE (ANCOVA)	75
+        ANALYSIS OF VARIANCE:  Simulations of the ANOVA model	26
+        ANOVA, MULTIPLE COMPARISONS, & CONTRASTS	28
+        UNBALANCED ANOVA EXAMPLE	34
+        LEAST SQUARES MEANS	41
+        ANOVA MODELS WITH RANDOM EFFECTS	47
+        NESTED ANOVA	53
+        SIMPLE LINEAR REGRESSION	56
+        LINEAR & MULTIPLE REGRESSION	65
+        ANALYSIS OF COVARIANCE (ANCOVA)	75
 
 
 
